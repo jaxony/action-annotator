@@ -3,7 +3,7 @@
 Welcome to public repo for the Action Annotator macOS app. This is where you can submit bug reports and feature requests. See links below.
 
 <!-- ![Demo of Action Annotator](demo.gif) -->
-<img src="/demo.gif" height="50vh"/>
+<img src="/demo.gif" height="500px"/>
 
 ## Submit a Bug Report
 
