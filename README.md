@@ -1,8 +1,7 @@
 # Action Annotator
 
-Welcome to public repo for the Action Annotator macOS app. This is where you can submit bug reports and feature requests. See links below.
+Welcome to the public bugs and feature requests repository for the [Action Annotator](https://www.actionannotator.com) macOS app. 
 
-<!-- ![Demo of Action Annotator](demo.gif) -->
 <img src="/demo.gif" height="500px"/>
 
 ## Submit a Bug Report
@@ -17,3 +16,5 @@ Welcome to public repo for the Action Annotator macOS app. This is where you can
 
 - Download the App: [www.actionannotator.com](https://www.actionannotator.com)
 - Contact us: action.annotator@gmail.com
+- Follow Jackson on [Twitter](https://twitter.com/macos_n_cheese)
+- Buy Jackson a [coffee](https://www.buymeacoffee.com/jacksonhuang)
