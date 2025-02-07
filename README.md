@@ -1,6 +1,6 @@
 # Action Annotator
 
-Welcome to the public bugs and feature requests repository for the [Action Annotator](https://www.actionannotator.com) macOS app. 
+Welcome to the public bugs and feature requests repository for the ~[Action Annotator](https://www.actionannotator.com)~ (link is dead) macOS app.
 
 <img src="/demo.gif" height="500px"/>
 
@@ -14,7 +14,7 @@ Welcome to the public bugs and feature requests repository for the [Action Annot
 
 ## Other links
 
-- Download the App: [www.actionannotator.com](https://www.actionannotator.com)
+- ~Download the App: [www.actionannotator.com](https://www.actionannotator.com)~
 - Contact us: action.annotator@gmail.com
 - Follow Jackson on [Twitter](https://twitter.com/macos_n_cheese)
 - Buy Jackson a [coffee](https://www.buymeacoffee.com/jacksonhuang)
